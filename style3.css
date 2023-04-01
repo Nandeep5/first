@@ -1,0 +1,28 @@
+.card{
+    background-image: url("https://img.freepik.com/premium-photo/panorama-space-galaxy-scene-with-planets-stars-galaxies-banner-template-many-nebulae-galaxies-space-many-light-years-away-deep-universe-galaxy-space-large-scale-structure-3d-rendered_91497-8157.jpg?w=900");
+    height: 100vh;
+    width: 25vw;
+    background-size: cover;
+}
+.main-heading{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "roboto";
+    padding: 25px;
+}
+.card1{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px;
+}
+.main{
+    font-family: "Beer serif";
+    font-weight: bold;
+}
+.pics{
+    height: 100px;
+    width: 80px;
+    
+}

@@ -1,0 +1,22 @@
+.image{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?w=1060&t=st=1675495081~exp=1675495681~hmac=b8bbb3a8eea2e361e0797d3561c3653ffd449a5a0d12d000e91affdb84919fef");
+    height: 100vh;
+    width: 50vw;
+    background-size: cover;
+    
+}
+.card{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+   
+}   
+.button{
+    height: 36px;
+    width: 138px;
+    background-color: #ffa500;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    
+}

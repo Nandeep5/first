@@ -1,0 +1,52 @@
+.image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.padding {
+    padding: 18px;
+}
+
+.card {
+    text-align: center;
+}
+
+.button {
+    height: 46px;
+    width: 90vw;
+    color: #ffffff;
+    font-family: Roboto;
+    background-color: #47a3f3;
+    border-width: 0px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: right;
+}
+
+.button1 {
+    height: 46px;
+    width: 90vw;
+    color: #ffffff;
+    font-family: Roboto;
+    background-color: #52606d;
+    border-width: 0px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: start;
+
+}
+
+.card2 {
+    height: 56px;
+    width: 100vw;
+    text-align: center;
+    color: #ffffff;
+    text-align: center;
+    font-family: Roboto;
+    background-color: #52606d;
+}
